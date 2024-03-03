@@ -1,0 +1,8 @@
+.subtitulo-resaltado {
+    color: blue;
+    background-color: #F8D800;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    text-align: center;
+}
